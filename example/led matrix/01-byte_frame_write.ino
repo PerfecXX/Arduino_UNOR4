@@ -28,7 +28,7 @@ byte clear_frame[MATRIX_HEIGHT][MATRIX_WIDTH] = {
 };
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   matrix.begin();
 }
 
