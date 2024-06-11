@@ -5,7 +5,7 @@ Example usage of Arduino UNO R4
 
 - Digital Pin
   - [LED](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/led)
-  - [Metrix LED](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/led%20matrix)
+  - [Metrix LED](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/matrix_led)
   - [Button](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/button)
 - PWM
   - [Buzzer](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/buzzer)
