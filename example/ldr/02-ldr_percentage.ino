@@ -9,7 +9,7 @@ void setup() {
 
 void loop() {
   ldr_val = analogRead(LDR_PIN);
-  light_percentage = map(ldr_val, 0, 1023, 0, 100);
+  light_percentage = map(ldr_val, 1023, 0, 0, 100);
 
   Serial.print("LDRValue:");
   Serial.println(ldr_val);
