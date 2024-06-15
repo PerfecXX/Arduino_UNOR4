@@ -1,4 +1,4 @@
-#define LED_PIN 8
+#define LED_PIN 2
 
 void setup() {
   // initialize digital pin 8 as an output.
