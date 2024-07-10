@@ -1,4 +1,4 @@
-#define LED_PIN 8
+#define LED_PIN 2
 #define BTN_PIN 7
 
 int btn_state;
