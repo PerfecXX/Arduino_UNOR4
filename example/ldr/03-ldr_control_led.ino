@@ -1,5 +1,5 @@
 #define LDR_PIN A1
-#define LED_PIN 8 
+#define LED_PIN 2
 
 int ldr_val;
 
