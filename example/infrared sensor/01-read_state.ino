@@ -1,4 +1,4 @@
-#define IR_PIN 2
+#define IR_PIN 12
 
 int ir_state;
 
