@@ -13,7 +13,7 @@ Example usage of Arduino UNO R4
 - Analog Pin
   - [LDR](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/ldr)
   - [Potentiometer](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/potentiometer)
-- Sensor
+- Sensor/Module
   - [DHT11/DHT22](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/dht)
   - [IR Sensor](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/infrared%20sensor)
   - [NeoPixel](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/neopixel)
