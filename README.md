@@ -21,9 +21,9 @@ Example usage of Arduino UNO R4
   - [HCSR-04 Ultrasonic Sensor](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/hcsr04%20ultrasonic%20sensor)
   - [I2C LCD Display](https://github.com/PerfecXX/Arduino-UNO-R4-Tutorial/tree/main/example/lcd)
   - [SSD1306 I2C OLED Display](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/ssd1306)
-  - Soil Sensor
-  - Relay Module
-  - LDR Module
+  - [Soil Sensor](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/soil%20sensor)
+  - [Relay Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/relay)
+  - [LDR Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/ldr)
 - Arduino Shield & Extension Board
   - 4 Relays Shield (TODO)
   - Motor Shield Rev3 (TODO)
