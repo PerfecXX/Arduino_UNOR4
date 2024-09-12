@@ -24,10 +24,10 @@ Example usage of Arduino UNO R4
   - [Soil Sensor](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/soil%20sensor)
   - [Relay Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/relay)
   - [LDR Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/ldr)
-- Arduino Shield & Extension Board
-  - 4 Relays Shield (TODO)
-  - Motor Shield Rev3 (TODO)
-  - 9 Axis Motion Shield (TODO)
+- WiFi
+  - Network
+  - RTC
+  - NTP
 
 ## Arduino Cloud IoT Example
 
