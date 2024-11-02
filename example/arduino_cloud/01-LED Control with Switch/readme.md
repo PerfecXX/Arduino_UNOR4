@@ -11,11 +11,11 @@ To control your built-in LED with Arduino Cloud, we need to prepare hardware and
   - Arduino IDE or Arduino Cloud Editor 
 
 ## Instruction
-1. Install Arduino IDE on your computer.
-2. Install Arduino Create Agent on your computer.
+1. Install Arduino IDE on your computer: https://www.arduino.cc/en/software.
+2. Install Arduino Create Agent on your computer: https://cloud.arduino.cc/download-agent/.
 3. Connect your Arduino UNO R4 WiFi to your computer.
 4. Sign in or register your Arduino account at: https://app.arduino.cc/
-5. Create your new "things.". 
+5. Create your new "things". 
 6. Associated your device using Arduino UNO R4.
 7. Set up your network with your SSID and password.
 8. Create a cloud variable by following the setting:
