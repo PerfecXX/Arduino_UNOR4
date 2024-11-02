@@ -12,8 +12,6 @@ void setup() {
 }
 
 void loop() {
-  
-
  // Get current time from RTC
   RTC.getTime(currenttime);
   
