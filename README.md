@@ -31,8 +31,8 @@ Example usage of Arduino UNO R4
 
 ## Arduino Cloud IoT Example
 
-- Control LED with Arduino Cloud
-- Control Metrix with Arduino Cloud
+- [Control LED with Arduino Cloud](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/arduino_cloud/01-LED%20Control%20with%20Switch)
+- [Sensor Monitor with Arduino Cloud](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/arduino_cloud/02-Sensor%20Monitoring)
 
 ## Reference
 
