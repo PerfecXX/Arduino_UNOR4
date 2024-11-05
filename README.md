@@ -1,6 +1,6 @@
 # Arduino UNO R4 Tutorial
 
-Example usage of Arduino UNO R4
+Example usage of Arduino UNO R4 
 
 ## Arduino UNO R4 Example
 
@@ -24,17 +24,21 @@ Example usage of Arduino UNO R4
   - [Soil Sensor](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/soil%20sensor)
   - [Relay Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/relay)
   - [LDR Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/ldr)
+- Real Time Clock
+  - [RTC]([RTC/NTP](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/rtc))
+  - [NTP]([RTC/NTP](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/rtc))
 - WiFi
   - Network
-  - RTC
-  - NTP
+  - Socket
+  - MQTT
+- BLE
 
 ## Arduino Cloud IoT Example
 
 - [Control LED with Arduino Cloud](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/arduino_cloud/01-LED%20Control%20with%20Switch)
 - [Sensor Monitor with Arduino Cloud](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/arduino_cloud/02-Sensor%20Monitoring)
 
-## Reference
+## Useful Link
 
 https://docs.arduino.cc/hardware/uno-r4-wifi/
 https://docs.arduino.cc/tutorials/uno-r4-wifi/cheat-sheet/
