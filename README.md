@@ -25,8 +25,8 @@ Example usage of Arduino UNO R4
   - [Relay Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/relay)
   - [LDR Module](https://github.com/PerfecXX/ArduinoUNOR4Tutorial/tree/main/example/ldr)
 - Real Time Clock
-  - [RTC]([RTC/NTP](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/rtc))
-  - [NTP]([RTC/NTP](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/rtc))
+  - [RTC](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/rtc)
+  - [NTP](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/rtc)
 - WiFi
   - Network
   - Socket
