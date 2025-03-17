@@ -1,0 +1,3 @@
+/*
+Template file for Arduino Cloud manual configuration 
+*/
