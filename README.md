@@ -29,7 +29,7 @@ Example usage of Arduino UNO R4
   - [NTP](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/rtc)
 - WiFi
   - [Network](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/network)
-  - Socket
+  - [Socket](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/socket)
   - MQTT
 - BLE
 
