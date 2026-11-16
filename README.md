@@ -31,7 +31,7 @@ Example usage of Arduino UNO R4
   - [Network](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/network)
   - [Socket](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/socket)
   - MQTT
-- BLE
+- [BLE](https://github.com/PerfecXX/Arduino_UNOR4/tree/main/example/ble)
 
 ## Arduino Cloud IoT Example
 
